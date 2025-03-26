@@ -6,10 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -22,10 +18,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Intake: A user submits a ticket via email, phone call, or the portal.
+- Assignment and Communication: The ticket gets assigned to an agent or admin depending on urgency and communication between the team begins.
+- Working the Issue: The assigned person will work on the ticket and provide updates on its progress based on its difficulty.
+- Resolution: Upon resolution the ticket will be closed and the client will be notified.
 
 <h2>Lifecycle Stages</h2>
 
